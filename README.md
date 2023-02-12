@@ -33,11 +33,11 @@ LYFELINK makes cities and human settlements inclusive, safe, resilient, and sust
 * JS: Responsiveness of the website.
 
 ## Deployment
-Click [here]() to go to our website.
+Click [here](https://lyfelink-3d.vercel.app/) to go to our website.
 The website was deployed on versel.
 
 ## Video Demo
-
+https://youtu.be/InPZfoT_E_8
 ## PDFs
 Presentation Link: Click [here](https://www.canva.com/design/DAFaGX4MzbI/fC48AwJgI-0r84OqZksAXQ/edit) to go to our presentation.
 
